@@ -1,6 +1,6 @@
 # Chatterbox
 
-Chatterbox is a real-time chat application built with Laravel Blade and WebSockets. This project allows users to engage in live conversations with seamless updates, leveraging the power of Laravel's WebSockets for real-time communication.
+Chatterbox is a real-time chat application built with Laravel Blade for templating, WebSockets for realtime and bootstrap for styles. This project allows users to engage in live conversations with seamless updates, leveraging the power of Laravel's WebSockets for real-time communication.
 
 ## Features
 - Real-time messaging using WebSockets
