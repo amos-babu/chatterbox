@@ -4,7 +4,7 @@ Chatterbox is a real-time chat application built with Laravel Blade for templati
 
 ## Features
 - Real-time messaging using WebSockets
-- User-friendly interface with Laravel Blade
+- User-friendly interface with Laravel Blade and Bootstrap
 - Easy setup and configuration
 
 ## Requirements
